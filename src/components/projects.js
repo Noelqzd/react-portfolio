@@ -65,7 +65,7 @@ Clicking A Unique Card Grants A Point and Will Shuffle The Cards, Be Careful, Yo
 
 10 second timer to answer questions,
 
-8 questions
+8 questions,
 
 If wrong answered is chosen, correct answer will appear
 
