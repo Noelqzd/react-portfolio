@@ -29,7 +29,7 @@ class Projects extends Component {
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://www.goldderby.com/wp-content/uploads/2019/09/Cover.jpg?w=620) center / cover'}} ></CardTitle>
             <CardText>
             Clicky Memory Game
-Clicking A Unique Card Grants A Point and Will Shuffle The Cards, Be Careful, You Can't Select The Same Card Twice!
+Clicking A Unique Card Grants A Point and Will Shuffle The Cards, Be Careful, You Can't Select The Same Card Twice.
           
             </CardText>
             <CardActions border>
