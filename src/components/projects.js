@@ -69,7 +69,7 @@ Clicking A Unique Card Grants A Point and Will Shuffle The Cards! Be Careful, Yo
 
 If wrong answered is chosen, correct answer will appear
 
-After all questions are submited player will recieve score card
+After all questions are submited player will recieve score card.
             </CardText>
             <CardActions border>
               <Button   href="https://github.com/Noqzd9/TriviGame" rel="noopener noreferrer" target="_blank" colored>GitHub</Button >
