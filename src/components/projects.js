@@ -81,7 +81,7 @@ After all questions are submited player will recieve score card.
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/67958316_10218098316426941_8330553189052973056_n.jpg?_nc_cat=104&_nc_oc=AQnWycXltzDBHpn63J6OGDsz-FMZyKbQXe0vN7NP6j-6c3HQVONJ8J1HQw-aUBVkMldOMhaNYarLZcaM_J_xrjZa&_nc_ht=scontent-sjc3-1.xx&oh=5cd2fe425f3f0909fc7c87c10f95b2c6&oe=5E450586) center / cover'}} ></CardTitle>
             <CardText>
-           I created a proffesional dentist page for my cousin.
+           Created a proffesional dentist page for my cousin.
             </CardText>
             <CardActions border>
               <Button   href="https://github.com/Noqzd9/Dental-Alberto" rel="noopener noreferrer" target="_blank" colored>GitHub</Button >
