@@ -53,7 +53,7 @@ class Resume extends Component {
               startYear={2009}
               endYear={2012}
               jobName="First Job"
-              jobDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+              jobDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s"
               />
               <Experience
                 startYear={2012}
