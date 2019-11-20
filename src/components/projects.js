@@ -67,7 +67,7 @@ Clicking A Unique Card Grants A Point and Will Shuffle The Cards, Be Careful, Yo
 
 8 questions,
 
-If wrong answered is chosen, correct answer will appear
+If wrong answered is chosen, correct answer will appear,
 
 After all questions are submited player will recieve score card.
             </CardText>
