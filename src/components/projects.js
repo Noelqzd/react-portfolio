@@ -63,7 +63,7 @@ Clicking A Unique Card Grants A Point and Will Shuffle The Cards, Be Careful, Yo
             <CardText>
             Trivia game based on Bay Area sports teams
 
-10 second timer to answer questions
+10 second timer to answer questions,
 
 8 questions
 
