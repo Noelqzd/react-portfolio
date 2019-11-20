@@ -110,7 +110,7 @@ After all questions are submited player will recieve score card.
           
       )
 
-      //MYSQL MONGODB
+      //MYSQL MONGODB.
     } else if(this.state.activeTab === 2) {
       return (
         <div className="projects-grid">
