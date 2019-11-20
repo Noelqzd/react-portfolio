@@ -17,7 +17,7 @@ class Projects extends Component {
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://www.everybodyplays.co.uk/images/gamefinderlogo.jpg) center / cover'}} ></CardTitle>
             <CardText>
-            We have developed a react app that can be used to look up books (Productive), or(||) look up games (Un-productive). Users can save their recommendations for either type on a communal page.
+            We have developed a react app that can be used to look up books (Productive), or(||) look up games (Un-productive), Users can save their recommendations for either type on a communal page.
             </CardText>
             <CardActions border>
               <Button   href="https://github.com/vic30004/un-productive-" rel="noopener noreferrer" target="_blank" colored>GitHub</Button >
