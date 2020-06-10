@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
 import Education from './education';
 import Experience from './experience';
-import Skills from './skills';
-
 
 class Resume extends Component {
   render() {
@@ -11,10 +9,13 @@ class Resume extends Component {
       <div>
         <Grid>
           <Cell col={4}>
-            <h2 style={{paddingTop: '2em'}}>Noel Quezada</h2>
+            <h2 style={{paddingTop: '0'}}>Noel Quezada</h2>
             <h4 style={{color: 'grey'}}>Programmer</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            <h6>Full Stack Engineer with a demonstrated history working in the e-learning industry. Passionate about creating a positive impact in a 
+              team environment, collaborates effectively with team members to complete projects on time.
+              Flexible and hard working with a positive attitude, profesional graduated from UC Berkeley Extension.
+            </h6>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <h5>Location</h5>
             <p>San Fransisco, CA</p>
@@ -35,17 +36,12 @@ class Resume extends Component {
                 <hr style={{borderTop: '3px solid #e22947'}} />
               <h2>Experience</h2>
             <Experience
-              startYear={2009}
-              endYear={2012}
-              jobName="First Job"
-              jobDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s"
+              startYear={2019}
+              jobName="Code with Corgis"
+              jobDescription="Primary responsibilities designing user interactions on websites, developing servers and  databases
+              for website functionality and coding for mobile platforms."
               />
-              <Experience
-                startYear={2012}
-                endYear={2016}
-                jobName="Second Job"
-                jobDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
-                />
+           
               <hr style={{borderTop: '3px solid #e22947'}} />
               <h2>Skills</h2>
               <Experience
