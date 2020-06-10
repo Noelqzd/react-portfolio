@@ -55,33 +55,26 @@ class Resume extends Component {
               <hr style={{borderTop: '3px solid #e22947'}} />
               <h2>Skills</h2>
               <Experience
-                startYear={2012}
-                endYear={2016}
-                jobName="Second Job"
+                
+                jobName="Javascript --- React --- MongoDB"
                 
                 />
                  <Experience
-              startYear={2009}
-              endYear={2012}
-              jobName="First Job"
+              
+              jobName="HTML --- CSS --- Bootstrap"
              
               />
               <Experience
-                startYear={2012}
-                endYear={2016}
-                jobName="Second Job"
+                
+                jobName="NodeJS --- NPM -- Express.js"
                 
                 />
                  <Experience
-              startYear={2009}
-              endYear={2012}
-              jobName="First Job"
-              
+              jobName="API --- MySQL --- Firebase"
               />
               <Experience
-                startYear={2012}
-                endYear={2016}
-                jobName="Second Job"
+              
+                jobName="EJS --- REST --- Databases"
                 
                 />
                       
