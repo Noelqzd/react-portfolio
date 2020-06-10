@@ -27,17 +27,11 @@ class Resume extends Component {
           <Cell className="resume-right-col" col={8}>
             <h2>Education</h2>
             <Education
-              startYear={2002}
-              endYear={2006}
-              schoolName="My University"
+              startYear={2019}
+              endYear={2019}
+              schoolName="UC Berkeley Extension"
               schoolDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
                />
-               <Education
-                 startYear={2007}
-                 endYear={2009}
-                 schoolName="My 2nd University"
-                 schoolDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
-                  />
                 <hr style={{borderTop: '3px solid #e22947'}} />
               <h2>Experience</h2>
             <Experience
@@ -56,25 +50,25 @@ class Resume extends Component {
               <h2>Skills</h2>
               <Experience
                 
-                jobName="Javascript --- React --- MongoDB"
+                jobName="Javascript - React - MongoDB"
                 
                 />
                  <Experience
               
-              jobName="HTML --- CSS --- Bootstrap"
+              jobName="HTML - CSS - Bootstrap"
              
               />
               <Experience
                 
-                jobName="NodeJS --- NPM -- Express.js"
+                jobName="NodeJS - NPM - Express.js"
                 
                 />
                  <Experience
-              jobName="API --- MySQL --- Firebase"
+              jobName="API - MySQL - Firebase"
               />
               <Experience
               
-                jobName="EJS --- REST --- Databases"
+                jobName="EJS - REST - Databases"
                 
                 />
                       
