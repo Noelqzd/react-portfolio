@@ -11,15 +11,6 @@ class Resume extends Component {
       <div>
         <Grid>
           <Cell col={4}>
-            {/* <div style={{textAlign: 'center'}}>
-              <img
-                // src="nono.jpg"
-                // alt="avatar"
-                style={{height: '300px'}}
-                style={{width: '300px'}}
-                 />
-            </div> */}
-
             <h2 style={{paddingTop: '2em'}}>Noel Quezada</h2>
             <h4 style={{color: 'grey'}}>Programmer</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
@@ -63,30 +54,36 @@ class Resume extends Component {
                 />
               <hr style={{borderTop: '3px solid #e22947'}} />
               <h2>Skills</h2>
-              <Skills
-                skill="javascript"
-                progress={85}
+              <Experience
+                startYear={2012}
+                endYear={2016}
+                jobName="Second Job"
+                
                 />
-                <Skills
-                  skill="HTML/CSS"
-                  progress={90}
-                  />
-                  <Skills
-                    skill="NodeJS"
-                    progress={70}
-                    />
-                    <Skills
-                      skill="React"
-                      progress={55}
-                      />
-                      <Skills
-                      skill="MongoDB"
-                      progress={60}
-                      />
-                      <Skills
-                      skill="Python"
-                      progress={55}
-                      />
+                 <Experience
+              startYear={2009}
+              endYear={2012}
+              jobName="First Job"
+             
+              />
+              <Experience
+                startYear={2012}
+                endYear={2016}
+                jobName="Second Job"
+                
+                />
+                 <Experience
+              startYear={2009}
+              endYear={2012}
+              jobName="First Job"
+              
+              />
+              <Experience
+                startYear={2012}
+                endYear={2016}
+                jobName="Second Job"
+                
+                />
                       
           </Cell>
         </Grid>
